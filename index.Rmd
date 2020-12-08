@@ -540,17 +540,23 @@ The publication/credit avenues are unconventional for Shiny apps, but they DO ex
 
 ---
 
-# Having fun is good
-
 class: center, middle
+
+# Having fun is good
 
 ![duckspirits](https://i.gifer.com/SLcP.gif)
 
 ---
 
-.pull-left[
-![catapp](img/)
-]
+class: center, middle
+
+![catapp](img/catapp.gif)
+
+---
+
+class: center, middle
+
+![novels](img/novels.png)
 
 ---
 
